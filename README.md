@@ -11,7 +11,7 @@ The Event Management System is a web-based application designed to streamline th
 - Reporting and Analytics
 
 ## Technologies Used
-- Frontend: HTML, CSS, JavaScript, Bootstrap
+- Frontend: HTML, CSS, Bootstrap
 - Backend: PHP, MySQL
 - Additional Tools: Git
 
@@ -35,3 +35,4 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
+![Screenshot 2024-06-10 141044](https://github.com/SahithRaja09/Event-Management-System-Exotic-Planners/assets/108539118/d41b3c69-6fab-44e4-baa9-ef57ebac220d)
