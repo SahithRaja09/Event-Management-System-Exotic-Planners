@@ -31,7 +31,9 @@ The Event Management System is a web-based application designed to streamline th
 - Generate reports and analyze event data.
 
 
-https://github.com/SahithRaja09/Event-Management-System-Exotic-Planners/assets/108539118/b17f08a7-fffd-438c-9f3d-8f20932f4858
+
+
+https://github.com/SahithRaja09/Event-Management-System-Exotic-Planners/assets/108539118/7907e08a-6ce7-41ee-923f-abe9ceccb99b
 
 ![Screenshot 2024-06-10 141044](https://github.com/SahithRaja09/Event-Management-System-Exotic-Planners/assets/108539118/d41b3c69-6fab-44e4-baa9-ef57ebac220d)
 ![Screenshot 2024-06-10 140729](https://github.com/SahithRaja09/Event-Management-System-Exotic-Planners/assets/108539118/0e3f2a80-7906-4a09-8856-84544a3d8a21)
